@@ -13,8 +13,7 @@ https://www.inflearn.com/courses/lecture?courseId=324119&type=LECTURE&unitId=242
 ## 📚 진행 상황
 - 1회독 완료 (05.09 ~ 05.23)
 
-
-| 장 | 제목 | jh                |yj |
+| 장 | 제목 | jh                |[최유정](https://github.com/jaehoon1128/spring_jpa_study/tree/yj) |
 |------|-------|--------------------|---------|
 | 섹션1 | 강좌 소개 | :white_large_square: |:white_large_square:
 | 섹션2 | 프로젝트 환경설정 |  | ✅ 2025.05.09|
