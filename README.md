@@ -18,7 +18,7 @@ https://www.inflearn.com/courses/lecture?courseId=324119&type=LECTURE&unitId=242
 | 섹션1 | 강좌 소개 | :white_large_square: |:white_large_square:
 | 섹션2 | 프로젝트 환경설정 |  | ✅ 2025.05.09|
 | 섹션3 | 도메인 분석 설계 |  | ✅ 2025.05.09|
-| 섹션4 | 애플리케이션 구현 준비 |  | |
+| 섹션4 | 애플리케이션 구현 준비 |  |✅ 2025.05.17|
 | 섹션5 | 회원 도메인 개발 |  | |
 | 섹션6 | 상품 도메인 개발 |  | |
 | 섹션7 | 주문 도메인 개발 |  | |
